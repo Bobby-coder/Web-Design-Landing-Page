@@ -1,6 +1,6 @@
 # Web Design Landing Page
 
-## [Live Site](https://product-landing-webpage.netlify.app/)
+## [Live Site](https://web-design-landing-webpage.netlify.app/)
 
 ![Live-site-screenshot](images/Project-8.png)
 
