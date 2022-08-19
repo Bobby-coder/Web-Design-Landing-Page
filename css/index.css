@@ -144,6 +144,12 @@ body {
         padding: 0 7.5%;
     }
 
+    .left-section{
+        height: 80vh;
+        margin-top: 64px;
+        justify-content: center;
+    }
+
     .left-section > h1{
         text-align: center;
     }
