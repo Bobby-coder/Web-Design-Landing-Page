@@ -10,7 +10,7 @@ body {
     height: 100vh;
     background-image: url("../images/backcover.svg");
     background-repeat: no-repeat;
-    background-position:  right bottom;
+    background-position:  right top;
     font-family: 'Poppins', sans-serif;
 }
 
